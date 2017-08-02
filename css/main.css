@@ -1,5 +1,6 @@
 html, body{
-    background-image: url('../images/background.jpg'), linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89));
+    background: #fff;
+    background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
