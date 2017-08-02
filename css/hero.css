@@ -1,26 +1,11 @@
+html, body{
+    background-image: url('../images/background.jpg'), linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89));
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100%;
+}
 body {
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-}
-.header-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('https://lh3.googleusercontent.com/hXp9eLK6_ArKA3fyEpsEGYHf7oKb0ZUMZnTWaLSw1ELE2lEbxQCRfgDIR9hY6QNW96q356i2Erq_oAQciw6rZttI_semYiucKYMEdlvTyR908NVdGUKhmYdDcrYYT-bxHqNmEKvLAmphTImCIBpeuoSxQP78MRMq1EYosL4CxozszRYGUgwU1c2xfBW7b6M6YqmCLnLRlA7UlTnY2-DXdloEHHBuOUE4L2hctdjIPKGAnkpPJJ6RtOwDJwPJQUnPHbvL7lhQQ5WyP0EfNx17fvLZKq8xmTR1YyykoGjGWbx-ezFGBPWek7DuRrUOUQd_mwuwX5aw5hz9hhmzdgaiTX5EGHh4oPzn1iWI0ETzAiaTMD6MhNe5ZrswPJHv6L2dZMayG8pydWufKKk80JaVKg9mc5bJdD_g-38QtiiERysy7Q4riVhDxyLYsam58Y8gI15RnUrCIn2zKwQAOTeYZz0pIcggnDuMosdf4FINnoBcP_5uTHmklu_uBjUAsxroDmA5h_brApAFDabbvUJrPn54op7Z35XpUGyCXbcJZBeknjUEAqlbKa8--fLRQLau7yNPRQaSMBoV0IitkpOXUVNaR_WcQXTdNsKgJ2MXnWH_9XznYcoaRfvnrVjOh28AkCVW_92j-6pV6Jysum2Simd2Kq31qgmrrcyO3saFudnNHDk=w958-h638-no');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.is-outlined {
-  background-color:transparent;
-  color:#fff;
-}
-.hero-cta {
-  padding: 30px 0;
-}
-.panel-block.section p {
-  font-size: 17px;
-  line-height: 1.4;
-  color:#95A5A6;
-}
-.section.main {
-  background-color:#00b0bd;
-}
-.icon-block {
-  font-size:5em;
+    display: flex;
+    align-items: center;
 }
