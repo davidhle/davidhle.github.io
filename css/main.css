@@ -9,3 +9,22 @@ body {
     display: flex;
     align-items: center;
 }
+td {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+div.container {
+    border-style: solid;
+    border-color: white;
+    max-width: 500px;
+    background-color: white;
+    background: rgba(0, 0, 0, 0);
+}
+h1.title {
+    color: white;
+}
+h2.subtitle {
+    color: white;
+}
