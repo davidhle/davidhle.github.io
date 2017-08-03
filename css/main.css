@@ -1,9 +1,15 @@
+/* Font from dafont.com */
+@font-face {
+    font-family: vanadine;
+    src: url('../fonts/VanadineBold.ttf');
+}
+/* Fade in animation */
 @keyframes fadeIn {
-  from {
+  0% {
     opacity: 0;
   }
 
-  to {
+  100% {
     opacity: 1;
   }
 }
@@ -31,8 +37,6 @@ body {
 td {
   padding-left: 25px;
   padding-right: 25px;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 div.container {
     max-width: 500px;
@@ -44,6 +48,7 @@ div.items {
     -webkit-animation-delay: 1s;
 }
 h1.title {
+    font-family: vanadine;
     color: white;
 }
 h2.subtitle {
