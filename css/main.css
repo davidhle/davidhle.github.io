@@ -51,9 +51,11 @@ h2.subtitle {
     align-self: flex-start;
 }
 a.links {
+    font-family: vanadine;
     color: #82BBCC;
 }
 a.links:hover {
+    font-family: vanadine;
     color: white;
 }
 i.fa {
