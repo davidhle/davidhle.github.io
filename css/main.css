@@ -3,7 +3,7 @@
     font-family: vanadine;
     src: url('../fonts/VanadineBold.ttf');
 }
-
+/* making sure that background image is fixed and looks darker */
 html{
     background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('../images/background.jpg');
     background-repeat: no-repeat;
@@ -12,44 +12,23 @@ html{
     min-height: 100%;
     min-width: 100%;
 }
+/* body fits within width and height of html  */
 body {
-    align-items: center;
     min-height: 100%;
     min-width: 100%;
-}
-.container {
-    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-    min-height: 100vh; /* These two lines are counted as one :-)       */
-    display: flex;
-    align-items: center;
-}
-.items {
-    -webkit-animation-duration: 2s;
-    -webkit-animation-delay: 2s;
 }
 a {
     display: inline-block;
     margin: 0 25px 0 0;
 }
-td {
-  padding-left: 25px;
-  padding-right: 25px;
-}
 h1.title {
     font-family: vanadine;
     color: white;
-    margin: auto;
 }
 h2.subtitle {
     color: white;
-    margin: auto;
 }
-.navbar {
-    background: rgba(0, 0, 0, 0.3);
-    -webkit-animation-duration: 2s;
-    -webkit-animation-delay: 1s;
-    align-self: flex-start;
-}
+/* change color of text and icons to signify them being a link */
 a.links {
     font-family: vanadine;
     color: #82BBCC;
@@ -65,4 +44,22 @@ i.fa {
 }
 i.fa:hover {
     color: white;
+}
+/* centers container */
+.container {
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+/* making sure that the navbar animates first */
+.items {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-delay: 2s;
+}
+.navbar {
+    background: rgba(0, 0, 0, 0.3);
+    -webkit-animation-duration: 2s;
+    -webkit-animation-delay: 1s;
+    align-self: flex-start;
 }
