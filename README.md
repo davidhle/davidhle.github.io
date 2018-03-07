@@ -1,6 +1,13 @@
-# Personal Website
+Grayscale Jekyll theme
+=========================
 
-## Welcome!
-This is my personal website hosted thanks to the help of GitHub pages :smiley:
+Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 
-I'm playing around with the CSS Framework [Bulma](http://bulma.io/) and as time goes on, I'll probably want to experiment with different frameworks for my website so I can learn more about them. 
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+
+=========
+For more details, read the [documentation](http://jekyllrb.com/)
