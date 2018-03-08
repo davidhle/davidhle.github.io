@@ -81,17 +81,16 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
 .navbar-custom .navbar-brand .navbar-toggle:active {
     outline: 0;
-    color: #ffffff;
 }
 
 .navbar-custom a {
-    color: #ffffff;
+    color: #fff;
 }
 
 .navbar-custom .nav li.active {
@@ -112,10 +111,6 @@ a:focus {
     background-color: rgba(255,255,255,.3);
 }
 
-#nav-toggle-button{
-    color: #ffffff;
-}
-
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -129,7 +124,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #ffffff;
+        background-color: #22292E;
     }
 
     .navbar-custom.top-nav-collapse {
