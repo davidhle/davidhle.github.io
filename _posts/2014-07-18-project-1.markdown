@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Alpaca Bag
+subtitle: HackFSU 5 Project
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: AlpacaBag.jpg
+thumbnail: AlpacaBagThumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2018
+type: Hackathon Project
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: I attended my first hackathon in the first weekend of March with three of my friends who also hadn't been to one, and we built a web application called Alpaca Bag. This is a travel board application inspired by those posters where you scratch off countries you've visited. </br></br> Built with D3.js, HTML, CSS, jQuery, ajax, and Javascript, the app lets you mark countries you have visited to, and on countries you have yet to select, then an image from Flickr appears in a tooltip while telling the user to "Pack their bags!" The user is then able to save their map as a png to save for printing, or to share with their friends.</br></br> Try out <a href="http://alpacabag.net" target="_blank">AlpacaBag</a>!
 
 ---
