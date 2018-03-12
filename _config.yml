@@ -8,7 +8,7 @@ description: "Student, Developer, & Designer"
 color:
   primary-dark: '#ffffff'
   links: '#219ab3'
-  navbar: '051c42'
+  navbar: '#051c42'
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
