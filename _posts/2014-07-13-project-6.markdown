@@ -1,5 +1,5 @@
 ---
-title: Round Icons
+title: Technique
 subtitle: Graphic Design
 layout: default
 modal-id: 6
