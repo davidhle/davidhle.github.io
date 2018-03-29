@@ -3,13 +3,13 @@ title: Technique
 subtitle: Graphic Design
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2014-07-13
+img: Technique.jpg
+thumbnail: TechniqueThumbnail.jpg
 alt: image-alt
-project-date: April 2014
-type: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Fall 2017 - Present
+type: Extracurricular Involvement
+category: Graphic Design
+description: Last fall, I joined the Technique, Georgia Tech's student-run newspaper as a graphic designer. At the time, I had recently switched my major to Computational Media, and wanted to join an organization that could hone my skills in design.</br></br>In my first semester on staff, I was assigned small assignments to make advertisements or small graphics that go along with articles. Now, as assistant design editor, I do those same things, while also writing editorial pieces every now and then!</br></br>The work shown here is a fake advertisement I created for our April Fool's special edition, where I created an ad for a student hotel on campus, when in reality, the building is where a lot of students have lecture and study.</br></br>I am currently in the process of putting my work on my <a href="https://www.behance.net/davidhle0f49">Behance profile</a>, so feel free to check out what I have so far (along with other projects I have done), and the my <a href="http://nique.net/author/david-le/">editorial pieces</a> I have written!
 
 ---

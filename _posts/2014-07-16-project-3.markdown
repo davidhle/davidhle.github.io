@@ -1,15 +1,15 @@
 ---
-title: Mooviz
-subtitle: Information Visualization
+title: Warby Parker Campaign
+subtitle: Graphic & Visual Design
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: WarbyParker.jpg
+thumbnail: WarbyParkerThumbnail.jpg
 alt: image-alt
-project-date: April 2014
-type: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2017
+type: Class Project
+category: Graphic & Visual Design
+description: In my principles of visual design, a poster campaign project was assigned where someone else and I would create a campaign about anything. My partner, <a href="https://www.linkedin.com/in/pbdomingo/">Beatrice</a> and I decided we wanted to mock up a campaign for the glasses company, Warby Parker, but marketed towards college students, specifically Georgia Tech students. The posters above are the ones I created, and you can view the entire set of posters <a href="/pdf/Domingo_Le_Poster_Campaign.pdf" target="_blank">here</a>!
 
 ---

@@ -1,15 +1,15 @@
 ---
-title: Sublime Doughnuts
+title: Sublime Menu Redesign
 subtitle: Information & Interaction Design
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: Sublime.jpg
+thumbnail: SublimeThumbnail.jpg
 alt: image-alt
-project-date: April 2014
-type: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: February 2018
+type: Class Project
+category: Information & Interaction Design
+description: For my principles of interaction design course I am currently taking, we were assigned a project where we were supposed to take an informational artifact, and redesign it in groups. Projects included flight tickets, receipts, and vitamin labels. My group decided we wanted to redesign a menu for an Atlanta-based doughnut shop, Sublime Doughnuts. The image on the left is the original poster, and the image on the right is the final design. Adobe Illustrator was used to create the design.</br></br>Check out our process in designing it in this <a href="/pdf/DavidLe_ProcessBook1.pdf" target="_blank">process book</a>!
 
 ---

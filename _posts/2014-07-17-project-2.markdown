@@ -4,12 +4,12 @@ subtitle: Game Boy Advance Game
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: GudetamaRun.jpg
+thumbnail: GudetamaRunThumbnail.jpg
 alt: image-alt
-project-date: April 2014
-type: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2017
+type: Class Project
+category: Game Development in C
+description: In the fall semester of 2017, I took a media device architecture class, where I learned about memory allocation in C, specifically with the GameBoy advance. Throughout the course, I had assignments to create games such as pong, and space invaders, but the final project was to create a game of my own.</br></br>I created Gudetama Run, based off the Japanese character Gudetama. In this game, the the goal is to get past the kitchen enemies and make it back to Gudetama's egg carton. Once out of lives, the player has lost the game.</br></br>I programmed the game using C, and created the illustrations using Adobe Illustrator and Usenti. Instructions on how to play the game are on the readme of the game's <a href="https://github.com/davidhle/GudetamaRun">GitHub repository</a>!
 
 ---

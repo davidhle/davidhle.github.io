@@ -4,12 +4,12 @@ subtitle: Twitter Bot
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: TwitterBot.jpg
+thumbnail: TwitterBotThumbnail.jpg
 alt: image-alt
-project-date: April 2014
-type: Start Bootstrap
+project-date: October 2017
+type: Class Project
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This project was for an introduction to computational media course, instructed by Ian Bogost, where we were assigned projects bi weekly based on a new programming language, framework, or API. One of the projects was to create a Twitter bot using NodeJS. For my Twitter bot, I created a bot that polls Donald Trump's tweets, creates a score for the tweet (based on words/characters like fake, lie, crooked, etc.), and gives the tweet a rating based on a scale of how an egg can be cooked.</br></br>The tools I used to create this were NodeJS, the Twitter API, and Adobe Illustrator for the egg illustrations.
 
 ---
